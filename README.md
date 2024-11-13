@@ -1,4 +1,6 @@
 # README
+ROBADO DEL PAPER!!!
+
 This repository contains the code for the topological audio fingerprint and identification methods from the paper "Topological fingerprints for audio identification" (Reise, Fernandez, Dominguez, Harrington and Beguerisse-Diaz, 2023).
 
 ## Contents
